@@ -19,3 +19,13 @@ h1 {
     list-style-type: none;
 }
 
+.description {
+    text-align: center;
+    border-style: dotted;
+    border-color: red;
+    background-color: cyan;
+}
+
+.center-ingredients {
+    text-align: center;
+}
