@@ -17,6 +17,14 @@ h1 {
 .centered-text-list {
     text-align: center;
     list-style-type: none;
+    color: black;
+    background-color: yellow;
+    margin-left: 450px;
+    margin-right: 490px;
+    margin-bottom: 3px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
 }
 
 .description {
